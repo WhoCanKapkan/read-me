@@ -1,0 +1,66 @@
+[1] = {
+	["children"] = {
+		[1] = {
+			["children"] = {
+				[1] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(3.2000000476837, 46.700000762939, -71.524002075195),
+						["Bone"] = "right hand",
+						["UniqueID"] = "4129609619",
+						["ClassName"] = "bone",
+					},
+				},
+				[2] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(4.4987888336182, 120.26680755615, 4.9950098991394),
+						["UniqueID"] = "4011549410",
+						["Position"] = Vector(17.5595703125, 4.4501953125, -6.025146484375),
+						["Size"] = 1.925,
+						["Bone"] = "right hand",
+						["Model"] = "models/maxib123/whiskey.mdl",
+						["ClassName"] = "model",
+					},
+				},
+				[3] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(-43.799999237061, -24.5, 45),
+						["Position"] = Vector(1.2999999523163, 0, -0.40000000596046),
+						["Bone"] = "right forearm",
+						["UniqueID"] = "2068486361",
+						["ClassName"] = "bone",
+					},
+				},
+				[4] = {
+					["children"] = {
+					},
+					["self"] = {
+						["Angles"] = Angle(26.700000762939, -74, 58.900001525879),
+						["Bone"] = "right upperarm",
+						["UniqueID"] = "1506786948",
+						["ClassName"] = "bone",
+					},
+				},
+			},
+			["self"] = {
+				["Arguments"] = "n",
+				["Invert"] = true,
+				["UniqueID"] = "1827350514",
+				["Event"] = "button",
+				["Operator"] = "equal",
+				["EditorExpand"] = true,
+				["ClassName"] = "event",
+			},
+		},
+	},
+	["self"] = {
+		["ClassName"] = "group",
+		["UniqueID"] = "996829865",
+		["Name"] = "whiskey animation",
+	},
+},
